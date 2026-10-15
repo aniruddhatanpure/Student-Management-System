@@ -1,4 +1,3 @@
-# Student-Management-System
 # 🎓 Student Record and Academic Management System
 
 A menu-driven, command-line application developed using **Python** to manage student records and academic information. The project demonstrates the practical use of Python data structures, functions, loops, conditional statements, and input validation.
